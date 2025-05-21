@@ -1,0 +1,11 @@
+
+I have the following outdated web pages that need to be redesigned to conform with HTML5. I need to make sure that as any of these HTML files are served from a web server and viewed in a modern-day web browser, the mp4 file automatically plays without having to click anything like start, pause, or stop. The video should not loop; it should only play once.
+
+As an mp4 the mime type should be type="video/mp4".
+
+Any PLUGINSPAGE should not be needed, as "http://quicktime.apple.com" is obsolete.
+
+As I provide the HTML pages for updating, only return the updated HTML code. I do not want explanations of changes or other supplemental information; just provide the updated HTML5 code only. Do not attempt to summarize or give advice.
+
+
+
